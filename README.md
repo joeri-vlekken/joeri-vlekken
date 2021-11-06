@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @joeri-vlekken
 - 👀 I’m interested in Python, Javascript and all the great power that comes with it.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently diving deeper into React
